@@ -1,0 +1,36 @@
+[
+  {
+    "id": 3,
+    "releaseYear": 2014,
+    "name": "Divergent",
+    "directors": ["Neil Burger"],
+    "releaseDate": "2014-03-20T00:00:00Z",
+    "ratings": 6.4,
+    "totalRating": 164,
+    "genres": ["Action", "Adventure", "Romance", "Sci-Fi"],
+    "coverImage": "Divergent-2014.jpg",
+    "description": "Beatrice Prior, a teenager with a special mind, finds her life threatened when an authoritarian leader seeks to exterminate her kind in her effort to seize control of their divided society.",
+    "duration": 117,
+    "actors": ["Shailene Woodley", "Kate Winslet", "Zoe Kravitz"],
+    "price": 52
+  },
+  {
+    "id": 6,
+    "releaseYear": 2014,
+    "name": "Captain America: The Winter Soldier",
+    "directors": ["Anthony Russo", "Joe Russo"],
+    "releaseDate": "2014-04-02T00:00:00Z",
+    "ratings": 9.9,
+    "totalRating": 239,
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "coverImage": "captain-america-the-winter-soldier-2014.jpg",
+    "description": "Steve Rogers struggles to embrace his role in the modern world and teams up with Natasha Romanoff, aka Black Widow, to battle a powerful yet shadowy enemy in present-day Washington, D.C.",
+    "duration": 135,
+    "actors": ["Chris Evans", "Frank Grillo", "Sebastian Stan"],
+    "price": 57
+  },
+  { "id": 7 },
+  { "id": 8, "ratings": 9.9, "releaseYear": 2010 },
+  { "id": 9, "releaseYear": 2010, "ratings": 9.9 },
+  { "id": 10, "name": "Hit man", "releaseYear": 2000, "ratings": 9.9 }
+]
